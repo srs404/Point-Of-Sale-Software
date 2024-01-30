@@ -1,3 +1,5 @@
+<img src="https://github.com/srs404/Point-Of-Sale-Software/blob/cbe37044b5d8dc12baab98e78fc5b468955f2d9b/Images/company%20logo.jpg">
+
 # Point-Of-Sale-Software
 My first big project with Visual Basic. Point of Sale Software with client requested features. Early VB.NET learning stories.
 
