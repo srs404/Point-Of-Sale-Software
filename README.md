@@ -14,9 +14,11 @@ My first big project with Visual Basic. Point of Sale Software with client reque
 | Price List | Dynamic Drink Price Editor |
 | Total Order | Track Orders For The Day |
 
+<img src="https://github.com/srs404/Point-Of-Sale-Software/blob/e2421acbd83575718b1a34bfb8ebe348775a7e0c/Images/1%20-%20Index.jpg">
+
 ## Language & Tools:
-- Visual Basic .NET | SQL
-- Microsoft Access
+- [![Visual Basic .NET](https://img.shields.io/badge/Visual%20Basic-.NET-blue.svg)](https://learn.microsoft.com/en-us/dotnet/visual-basic/) | SQL
+- [![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-red.svg?logo=microsoftaccess)](https://www.microsoft.com/en-CA/microsoft-365/access)
 
 ## Creation Date 🕐:
 - June, 2015
