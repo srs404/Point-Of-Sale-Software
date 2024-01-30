@@ -1,0 +1,76 @@
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\bin\Release\dbase.mdf
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\bin\Release\dbase_log.ldf
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\bin\Release\Touch Invoice.exe.config
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\bin\Release\Touch Invoice.exe
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\bin\Release\Touch Invoice.pdb
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\bin\Release\Touch Invoice.xml
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\obj\Release\Touch_Invoice.counter.resources
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\obj\Release\Touch_Invoice.Form1.resources
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\obj\Release\Touch_Invoice.message.resources
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\obj\Release\Touch_Invoice.Resources.resources
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\obj\Release\Touch Invoice.vbproj.GenerateResource.cache
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\obj\Release\Touch Invoice.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\obj\Release\Touch Invoice.exe
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\obj\Release\Touch Invoice.xml
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\obj\Release\Touch Invoice.pdb
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\obj\Release\Touch_Invoice.analyzeform.resources
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\obj\Release\Touch_Invoice.login.resources
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\obj\Release\Touch_Invoice.pricelistchange.resources
+F:\Projects\Visual Basic\Touch Invoice\Touch Invoice\bin\Release\dbase.mdf
+F:\Projects\Visual Basic\Touch Invoice\Touch Invoice\bin\Release\dbase_log.ldf
+F:\Projects\Visual Basic\Touch Invoice\Touch Invoice\bin\Release\Touch Invoice.exe.config
+F:\Projects\Visual Basic\Touch Invoice\Touch Invoice\bin\Release\Touch Invoice.exe
+F:\Projects\Visual Basic\Touch Invoice\Touch Invoice\bin\Release\Touch Invoice.pdb
+F:\Projects\Visual Basic\Touch Invoice\Touch Invoice\bin\Release\Touch Invoice.xml
+F:\Projects\Visual Basic\Touch Invoice\Touch Invoice\obj\Release\Touch Invoice.vbprojResolveAssemblyReference.cache
+F:\Projects\Visual Basic\Touch Invoice\Touch Invoice\obj\Release\Touch_Invoice.analyzeform.resources
+F:\Projects\Visual Basic\Touch Invoice\Touch Invoice\obj\Release\Touch_Invoice.counter.resources
+F:\Projects\Visual Basic\Touch Invoice\Touch Invoice\obj\Release\Touch_Invoice.Form1.resources
+F:\Projects\Visual Basic\Touch Invoice\Touch Invoice\obj\Release\Touch_Invoice.login.resources
+F:\Projects\Visual Basic\Touch Invoice\Touch Invoice\obj\Release\Touch_Invoice.message.resources
+F:\Projects\Visual Basic\Touch Invoice\Touch Invoice\obj\Release\Touch_Invoice.Resources.resources
+F:\Projects\Visual Basic\Touch Invoice\Touch Invoice\obj\Release\Touch_Invoice.pricelistchange.resources
+F:\Projects\Visual Basic\Touch Invoice\Touch Invoice\obj\Release\Touch Invoice.vbproj.GenerateResource.cache
+F:\Projects\Visual Basic\Touch Invoice\Touch Invoice\obj\Release\Touch Invoice.vbproj.CoreCompileInputs.cache
+F:\Projects\Visual Basic\Touch Invoice\Touch Invoice\obj\Release\Touch Invoice.exe
+F:\Projects\Visual Basic\Touch Invoice\Touch Invoice\obj\Release\Touch Invoice.xml
+F:\Projects\Visual Basic\Touch Invoice\Touch Invoice\obj\Release\Touch Invoice.pdb
+D:\Workstation\Projects\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\bin\Release\dbase.mdf
+D:\Workstation\Projects\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\bin\Release\dbase_log.ldf
+D:\Workstation\Projects\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\bin\Release\Touch Invoice.exe.config
+D:\Workstation\Projects\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\bin\Release\Touch Invoice.exe
+D:\Workstation\Projects\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\bin\Release\Touch Invoice.pdb
+D:\Workstation\Projects\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\bin\Release\Touch Invoice.xml
+D:\Workstation\Projects\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\obj\Release\Touch Invoice.vbprojAssemblyReference.cache
+D:\Workstation\Projects\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\obj\Release\Touch_Invoice.analyzeform.resources
+D:\Workstation\Projects\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\obj\Release\Touch_Invoice.counter.resources
+D:\Workstation\Projects\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\obj\Release\Touch_Invoice.Form1.resources
+D:\Workstation\Projects\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\obj\Release\Touch_Invoice.login.resources
+D:\Workstation\Projects\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\obj\Release\Touch_Invoice.message.resources
+D:\Workstation\Projects\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\obj\Release\Touch_Invoice.Resources.resources
+D:\Workstation\Projects\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\obj\Release\Touch_Invoice.pricelistchange.resources
+D:\Workstation\Projects\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\obj\Release\Touch Invoice.vbproj.GenerateResource.cache
+D:\Workstation\Projects\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\obj\Release\Touch Invoice.vbproj.CoreCompileInputs.cache
+D:\Workstation\Projects\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\obj\Release\Touch Invoice.exe
+D:\Workstation\Projects\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\obj\Release\Touch Invoice.xml
+D:\Workstation\Projects\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\obj\Release\Touch Invoice.pdb
+P:\Sort Out Later\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\bin\Release\dbase.mdf
+P:\Sort Out Later\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\bin\Release\dbase_log.ldf
+P:\Sort Out Later\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\bin\Release\Touch Invoice.exe.config
+P:\Sort Out Later\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\bin\Release\Touch Invoice.exe
+P:\Sort Out Later\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\bin\Release\Touch Invoice.pdb
+P:\Sort Out Later\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\bin\Release\Touch Invoice.xml
+P:\Sort Out Later\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\obj\Release\Touch Invoice.vbproj.AssemblyReference.cache
+P:\Sort Out Later\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\obj\Release\Touch Invoice.vbproj.SuggestedBindingRedirects.cache
+P:\Sort Out Later\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\obj\Release\Touch_Invoice.analyzeform.resources
+P:\Sort Out Later\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\obj\Release\Touch_Invoice.counter.resources
+P:\Sort Out Later\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\obj\Release\Touch_Invoice.Form1.resources
+P:\Sort Out Later\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\obj\Release\Touch_Invoice.login.resources
+P:\Sort Out Later\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\obj\Release\Touch_Invoice.message.resources
+P:\Sort Out Later\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\obj\Release\Touch_Invoice.Resources.resources
+P:\Sort Out Later\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\obj\Release\Touch_Invoice.pricelistchange.resources
+P:\Sort Out Later\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\obj\Release\Touch Invoice.vbproj.GenerateResource.cache
+P:\Sort Out Later\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\obj\Release\Touch Invoice.vbproj.CoreCompileInputs.cache
+P:\Sort Out Later\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\obj\Release\Touch Invoice.exe
+P:\Sort Out Later\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\obj\Release\Touch Invoice.xml
+P:\Sort Out Later\Visual Basic\R&D Station\Touch Invoice\Touch Invoice\obj\Release\Touch Invoice.pdb

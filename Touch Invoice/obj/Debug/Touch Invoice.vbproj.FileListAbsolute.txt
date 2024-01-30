@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\bin\Debug\Touch Invoice.exe
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\bin\Debug\Touch Invoice.pdb
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\bin\Debug\Touch Invoice.xml
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\obj\Debug\Touch Invoice.vbprojResolveAssemblyReference.cache
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\obj\Debug\Touch_Invoice.Form1.resources
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\obj\Debug\Touch_Invoice.Resources.resources
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\obj\Debug\Touch Invoice.vbproj.GenerateResource.cache
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\obj\Debug\Touch Invoice.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\obj\Debug\Touch Invoice.exe
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\obj\Debug\Touch Invoice.xml
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\obj\Debug\Touch Invoice.pdb
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\bin\Debug\dbase.mdf
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\bin\Debug\dbase_log.ldf
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\obj\Debug\Touch_Invoice.counter.resources
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\bin\Debug\Touch Invoice.exe.config
+C:\Users\HP\source\repos\Touch Invoice\Touch Invoice\obj\Debug\Touch_Invoice.message.resources
